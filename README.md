@@ -1,3 +1,3 @@
 # disruptiveback
-### `npm i mongoose express cors morgan`
+### `npm i install`
 ### `npm i nodemon -D`
